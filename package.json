@@ -51,8 +51,8 @@
         "sinon": "^1.17.3"
     },
     "peerDependencies": {
-        "react": "^16.8.6",
-        "react-native": "^0.60.4"
+        "react": ">=16.8.6",
+        "react-native": ">=0.60.4"
     },
     "dependencies": {
         "babel-runtime": "^6.6.1"
